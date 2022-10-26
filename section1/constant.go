@@ -21,4 +21,4 @@ func main() {
 
 }
 
-// constant boleh tidak digunakan secara langsung, golang won't be complaining.
+// Constant boleh tidak digunakan secara langsung, golang won't be complaining

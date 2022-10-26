@@ -9,7 +9,7 @@ func main() {
 
 	fmt.Println(nilai32)
 	fmt.Println(nilai64)
-	fmt.Println(nilai8) // Bila telah mencapai nilai Max, maka akan langsung balik ke nilai Min
+	fmt.Println(nilai8) 	// Bila telah mencapai nilai Max, maka akan langsung balik ke nilai Min
 
 	fmt.Println("")
 	
@@ -21,4 +21,3 @@ func main() {
 	fmt.Println(e)
 	fmt.Println(eString)
 }
-

@@ -12,4 +12,4 @@ func main() {
 	fmt.Println(noKTPhabib, marriedStatus)
 }
 
-// type declaration = membuat alias terhadap tipe data yang sudah ada
+// type declaration = Membuat alias terhadap tipe data yang sudah ada
