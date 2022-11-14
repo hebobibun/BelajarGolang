@@ -11,7 +11,7 @@ func main() {
 	fmt.Println(result) // false
 
 	var value1 = 100
-	var value2 = 20
+	var value2 = 35
 
 	fmt.Println(value1 > value2)  // true
 	fmt.Println(value1 < value2)  // false
